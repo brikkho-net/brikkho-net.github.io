@@ -1,0 +1,10 @@
+---
+title: digidesk.opensource-knowledge-management-platform
+timezone: Asia/Dhaka
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
